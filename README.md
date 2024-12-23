@@ -64,14 +64,14 @@ end
 endmodule
 ```
 
-**RTL LOGIC FOR FLIPFLOPS**
+**RTL LOGIC FOR THE FLIPFLOP**
 
 ![Screenshot (67)](https://github.com/user-attachments/assets/93ed9676-a2f0-41f1-8b51-8a4984b7eee8)
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAM FOR THE FLIP FLOP**
 
 ![Screenshot (68)](https://github.com/user-attachments/assets/6ba7af3f-3c39-4cc2-82a1-878d09dfe51e)
 
-**RESULTS**
+**RESULT**
 
 Successfully implemented the SR flipflop using verilog and validated their functionality using their functional tables.
